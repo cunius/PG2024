@@ -1,2 +1,2 @@
 # PG2024
-Pure Glory
+Community App developed with NextJS
